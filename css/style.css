@@ -1,3 +1,22 @@
 body{
     font-family: 'Roboto', sans-serif;
 }
+/*------------------------  NAV ------------------------------------*/
+nav li{
+    margin-right: 1rem;
+}
+
+.dropdown-menu{
+    background-color: #F8F9FA;
+}
+.dropdown-menu li{
+    margin: 0;
+}
+.dropdown-item{
+    color: #212529
+}
+
+.dropdown-item:active{
+    background-color: #212529;
+
+}
