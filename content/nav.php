@@ -46,4 +46,4 @@
     </div>
   </div>
 </nav>
-<main>
+<main class="container shadow p-3 my-2 rounded">
